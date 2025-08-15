@@ -1,2 +1,2 @@
-# pymeili3
-A progressive version of Python package: pymeili
+# pymeili_resource
+online resources files' location for python package "pymeili"
